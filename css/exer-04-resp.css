@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+@media only screen and (orientation: landscape) {
+  .container{
+    background-color: #646569;
+    font-size: 40px;
+    font-family: 'Consolas';
+    color: #00ff00;
+  }
+}

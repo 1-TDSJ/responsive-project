@@ -52,8 +52,17 @@ O último pode ser ignorado.
   text-align: left;
   background-color: #33dfdf;
   width: 50vw;
+  height: 50vh;
 }
 
+figure img{
+  max-width: 100%;
+}
+.legenda{
+  position: relative;
+  width: inherit;
+  background-color: rgba(0, 0, 0, 0.5);
+}
 
 .lateral-1{
   background-color: #ecd019;
